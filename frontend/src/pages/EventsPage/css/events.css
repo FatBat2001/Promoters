@@ -1,0 +1,39 @@
+.events-parent-wrapper {
+    position: relative;
+    padding-top: 70px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: 400;
+}
+.events-wrapper {
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    max-width: 1500px;
+}
+
+
+@media screen and (max-width: 740px) {
+    .events-wrapper {
+        display: flex; 
+        flex-direction: column;
+        align-items: center;
+    }
+
+}
+
+@media screen and (min-width: 740px) {
+    .events-wrapper {
+        display: flex; 
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media screen and (min-width: 740px) and (max-width: 1196px){
+    .events-wrapper {
+        display: flex; 
+        flex-direction: column;
+        align-items: center;
+    }
+
+}

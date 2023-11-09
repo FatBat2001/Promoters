@@ -1,0 +1,11 @@
+.form-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1.9rem;
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: 400;;
+}
+.form-wrapper button:hover{
+    cursor: pointer;
+}

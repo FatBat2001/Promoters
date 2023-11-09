@@ -1,0 +1,108 @@
+.EventTitle {
+    color: #e30613;
+    font: normal 30px / 40px "BebasNeue Bold", Helvetica, Arial, Verdana, sans-serif;
+    letter-spacing: .01px;
+    padding-top: 30px;
+}
+
+.EventDesc {
+    font: normal 18px / 26px "Poppins Regular", Helvetica, Arial, Verdana, sans-serif;
+    padding-top: 15px;
+}
+
+.EventRelated {
+    color: #e30613;
+    font: normal 30px / 40px "BebasNeue Bold", Helvetica, Arial, Verdana, sans-serif;
+    letter-spacing: .01px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.event-container{
+    margin-top: 80px;
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    width: 100%;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.event-inner-container{
+    margin-bottom: 20px;
+}
+
+.video{
+    width: 100% ;
+}
+
+
+
+@media (min-width: 576px){
+    .event-container {
+        max-width: 540px;
+    }
+}
+
+@media (min-width: 768px){
+    .event-container{
+        max-width: 720px;
+    }
+}
+
+@media (min-width: 992px){
+    .event-container{
+        max-width: 960px;
+    }
+}
+
+@media (min-width: 1200px){
+    .event-container {
+        max-width: 1140px;
+    }
+}
+
+@media (min-width: 1400px) {
+    .event-container {
+        max-width: 1320px;
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+}
+
+@media screen and (max-width: 740px) {
+    .EventNavContainer {
+        background-color: #0c0c0c;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: column;
+        min-height: 85px;
+        height: fit-content;
+    }
+  }
+  @media screen and (min-width: 740px) {
+    .EventNavContainer {
+        background-color: #0c0c0c;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: row;
+        min-height: 85px;
+        height: fit-content;
+    }
+  }
+
+.NavC {
+    color: white;
+    padding: 10px;
+}
+
+.EventRecommended {
+    padding-bottom: 2vw;
+    display: flex;
+    justify-content: space-between;
+}

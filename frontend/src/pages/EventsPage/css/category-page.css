@@ -1,0 +1,14 @@
+.category-page-wrapper {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.category-page-cards-wrapper {
+    max-width: 1500px;
+    display: flex;
+    justify-content: space-evenly;    
+    flex-wrap: wrap;
+    column-gap: 3rem;
+    row-gap: 3rem;
+    margin: 4rem 2rem;
+}

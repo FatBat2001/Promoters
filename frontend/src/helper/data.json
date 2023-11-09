@@ -1,0 +1,222 @@
+{
+    "allCategories":[
+        {
+            "category":"concerts",
+            "concerts":{
+                "events":[ 
+                    {   
+                        "id":"1",
+                        "coverImage":"https://picsum.photos/500",
+                        "images":[
+                            "https://picsum.photos/500",
+                            "https://picsum.photos/500",
+                            "https://picsum.photos/500"  
+            
+                        ],
+                        "videos":[
+                            "https://picsum.photos/500" 
+                        ], 
+                        "title":"Title of event 1", 
+                        "descritpion":"bla bla and blablabla blabla"
+                    },
+                    {   
+                        "id":"2",
+                        "coverImage":"https://picsum.photos/500",
+                        "images":[
+                            "https://picsum.photos/500",
+                            "https://picsum.photos/500",
+                            "https://picsum.photos/500"  
+            
+                        ],
+                        "videos":[
+                            "https://picsum.photos/500" 
+                        ], 
+                        "title":"Title of the event 2", 
+                        "descritpion":"bla bla and blablabla blabla"
+                    },
+                    {   
+                        "id":"3",
+                        "coverImage":"https://picsum.photos/500",
+                        "images":[
+                            "https://picsum.photos/500",
+                            "https://picsum.photos/500",
+                            "https://picsum.photos/500"  
+            
+                        ],
+                        "videos":[
+                            "https://picsum.photos/500" 
+                        ], 
+                        "title":"Title of the event 3", 
+                        "descritpion":"bla bla and blablabla blabla"
+                    }
+            
+                ]
+            }
+        },
+        {
+            "category":"corporate",
+            "corporate":{
+            "events":[ 
+                {   
+                    "id":"4",
+                    "coverImage":"https://picsum.photos/500",
+                    "images":[
+                        "https://picsum.photos/500",
+                        "https://picsum.photos/500",
+                        "https://picsum.photos/500"  
+        
+                    ],
+                    "videos":[
+                        "https://picsum.photos/500" 
+                    ], 
+                    "title":"Title of the event", 
+                    "descritpion":"bla bla and blablabla blabla"
+                },
+                {   
+                    "id":"5",
+                    "coverImage":"https://picsum.photos/500",
+                    "images":[
+                        "https://picsum.photos/500",
+                        "https://picsum.photos/500",
+                        "https://picsum.photos/500"  
+        
+                    ],
+                    "videos":[
+                        "https://picsum.photos/500" 
+                    ], 
+                    "title":"Title of the event", 
+                    "descritpion":"bla bla and blablabla blabla"
+                },
+                {   
+                    "id":"6",
+                    "coverImage":"https://picsum.photos/500",
+                    "images":[
+                        "https://picsum.photos/500",
+                        "https://picsum.photos/500",
+                        "https://picsum.photos/500"  
+        
+                    ],
+                    "videos":[
+                        "https://picsum.photos/500" 
+                    ], 
+                    "title":"Title of the event", 
+                    "descritpion":"bla bla and blablabla blabla"
+                }
+                
+        
+            ]
+        } 
+    },
+        {
+            "category":"conferences",
+            "conferences":{
+                "events":[ 
+                    {   
+                        "id":"7",
+                        "coverImage":"https://picsum.photos/500",
+                        "images":[
+                            "https://picsum.photos/500",
+                            "https://picsum.photos/500",
+                            "https://picsum.photos/500"  
+            
+                        ],
+                        "videos":[
+                            "https://picsum.photos/500" 
+                        ], 
+                        "title":"Title of the event", 
+                        "descritpion":"bla bla and blablabla blabla"
+                    },
+                    {   
+                        "id":"8",
+                        "coverImage":"https://picsum.photos/500",
+                        "images":[
+                            "https://picsum.photos/500",
+                            "https://picsum.photos/500",
+                            "https://picsum.photos/500"  
+            
+                        ],
+                        "videos":[
+                            "https://picsum.photos/500" 
+                        ], 
+                        "title":"Title of the event", 
+                        "descritpion":"bla bla and blablabla blabla"
+                    },
+                    {   
+                        "id":"9",
+                        "coverImage":"https://picsum.photos/500",
+                        "images":[
+                            "https://picsum.photos/500",
+                            "https://picsum.photos/500",
+                            "https://picsum.photos/500"  
+            
+                        ],
+                        "videos":[
+                            "https://picsum.photos/500" 
+                        ], 
+                        "title":"Title of the event", 
+                        "descritpion":"bla bla and blablabla blabla"
+                    }
+                    
+            
+                ]
+            } 
+        },
+        {
+            
+            "category":"activations",
+            "activations":{
+                "events":[ 
+                    {   
+                        "id":"10",
+                        "coverImage":"https://picsum.photos/500",
+                        "images":[
+                            "https://picsum.photos/500",
+                            "https://picsum.photos/500",
+                            "https://picsum.photos/500"  
+            
+                        ],
+                        "videos":[
+                            "https://picsum.photos/500" 
+                        ], 
+                        "title":"Title of the event", 
+                        "descritpion":"bla bla and blablabla blabla"
+                    },
+                    {   
+                        "id":"11",
+                        "coverImage":"https://picsum.photos/500",
+                        "images":[
+                            "https://picsum.photos/500",
+                            "https://picsum.photos/500",
+                            "https://picsum.photos/500"  
+            
+                        ],
+                        "videos":[
+                            "https://picsum.photos/500" 
+                        ], 
+                        "title":"Title of the event", 
+                        "descritpion":"bla bla and blablabla blabla"
+                    },
+                    {   
+                        "id":"12",
+                        "coverImage":"https://picsum.photos/500",
+                        "images":[
+                            "https://picsum.photos/500",
+                            "https://picsum.photos/500",
+                            "https://picsum.photos/500"  
+            
+                        ],
+                        "videos":[
+                            "https://picsum.photos/500" 
+                        ], 
+                        "title":"Title of the event", 
+                        "descritpion":"bla bla and blablabla blabla"
+                    }
+                ]
+            }            
+        } 
+    ]
+}
+
+
+
+
